@@ -14,7 +14,7 @@ export const DarkLayout: FC<Props> = ({ children }) => {
             <h3>Dark Layout</h3>
             <div>
                 {children}
-            </div>ƒ
+            </div>
         </div>
     );
 };
